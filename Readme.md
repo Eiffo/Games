@@ -1,3 +1,3 @@
 Project with many mini games.
 
-Created in Python
+Created in Python.
