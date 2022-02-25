@@ -1,3 +1,3 @@
-Project with many mini games.
+Project with potential to create many minigames.
 
-Created in Python.
+Created in Python
